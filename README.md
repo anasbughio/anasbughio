@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am student of computer science
+I am Computer Science student and aspiring Full Stack Developer, I am passionate about building scalable, efficient web applications. My journey in tech is driven by a genuine love for coding and solving complex problems.
+
+I specialize in the MERN Stack (MongoDB, Express.js, React, Node.js) and have a growing proficiency in DevOps practices. I believe in learning by doing, which is why I have dedicated my time to building functional projects.
+I am currently seeking entry-level Full Stack or DevOps opportunities where I can contribute my skills and continue learning from an experienced team.
 
 
 ## 🌐 Socials:
